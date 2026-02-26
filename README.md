@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**vladislavskiyy/vladislavskiyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Vladislav Damdinov</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+IT Product Manager • AI-first Products <br>
+MIPT • Systems & Product Thinking <br>
+Founder of <b>MyHero</b> — gamified AI planner
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🧠 Building products at the intersection of Tech & Strategy  
+- 📊 Strong in Product Discovery & Unit Economics  
+- 🏗 Interested in System Design & AI-powered apps  
+
+---
+
+### 🛠 Tech & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-grey?style=flat)
+![System Design](https://img.shields.io/badge/System%20Design-blue)
+![Product](https://img.shields.io/badge/Product-Strategy-black)
+
+---
+
+### 🧩 Current Focus
+- Product Discovery  
+- System Architecture  
+- AI Applications  
+- Unit Economics  
+
+---
+
+### 📌 Featured Project
+**MyHero**  
+AI-powered productivity companion with gamification mechanics.
